@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm @imSayeda</h1>
 <h3 align="center">Passionate about crafting captivating digital experiences, I'm Sayed Fatima, a dedicated web designer and developer with a keen eye for detail and a flair for c</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imsayeda" alt="imsayeda" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/imSayeda](https://github.com/imSayeda)
 
 <h3 align="left">Connect with me:</h3>
