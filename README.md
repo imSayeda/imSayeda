@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm @imSayeda</h1>
 <h3 align="center">Passionate about crafting captivating digital experiences, I'm Sayed Fatima, a dedicated web designer and developer with a keen eye for detail and a flair for c</h3>
 
-<h2 align="center">
- <a href="https://discord.com/users/1009513711343501393"><img  width="400px" src="https://lanyard.kyrie25.me/api/1009513711343501393?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&bg=DD272700&idleMessage=what+is+sleep?"></a>
-<br> </br>
+[![Discord Presence](https://lanyard.kyrie25.me/api/1009513711343501393)](https://discord.com/users/1009513711343501393)
 
 - 👨‍💻 All of my projects are available at [https://github.com/imSayeda](https://github.com/imSayeda)
 
